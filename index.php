@@ -1,4 +1,4 @@
 <?php 
 
 echo 'hello demo';
-echo 'add index.php';
+echo 'add index';
